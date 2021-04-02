@@ -21264,6 +21264,10 @@ body {
   /* foreground or text color */
 }
 
+.h4 {
+  margin-right: 20px;
+}
+
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 /* Carousel base class */
