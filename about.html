@@ -20,44 +20,70 @@
     <script src="/script.js" defer></script>
   </head>
   <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-      <a class="navbar-brand" href="Carousel.html">
+    <nav class="navbar navbar-expand-md navbar-light bg-light fixed-top">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="Carousel.html">
         <img id="brand-image" src="Big%20Logo.png" alt="CareOnClick Logo"/>
-     </a>
-      <button
-        class="navbar-toggler"
-        type="button"
-        data-toggle="collapse"
-        data-target="#navbarText"
-        aria-controls="navbarText"
-        aria-expanded="false"
-        aria-label="Toggle navigation"
-      >
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarText">
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item ">
-            <a class="nav-link" href="Carousel.html">Home </a>
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+
+          <ul class="navbar-nav me-auto mb-2 mb-md-0 careonclick">
+            <li class="nav-item active">
+              <a class="nav-link careonclick" aria-current="page" href="about.html">About Us</a>
+            </li>
+          <!-- What we offer dropdown menu -->
+            <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              What We Offer
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <li><a class="dropdown-item" href="#">Care Packages</a></li>
+              <li><a class="dropdown-item" href="#">Mental Health Resources</a></li>
+            <!--  <li><hr class="dropdown-divider"></li> -->
+              <li><a class="dropdown-item" href="#">Financial Resources</a></li>
+              <li><a class="dropdown-item" href="#">Medical Resources</a></li>
+            </ul>
           </li>
-          <li class="nav-item active">
-            <a class="nav-link" href="#"
-              >About Us<span class="sr-only">(current)</span></a
-            >
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">What We Offer</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">How to Help</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Healthcare Workers</a>
-          </li>
-        </ul>
-        <span class="navbar-text">
-          Contact Us
-        </span>
+          <!-- What we offer dropdown menu -->
+
+            <!-- How to help menu -->
+          <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown2" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            How To Help
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="#">Donations</a></li>
+            <li><a class="dropdown-item" href="#">Letters Of Support</a></li>
+          <!--  <li><hr class="dropdown-divider"></li> -->
+            <li><a class="dropdown-item" href="#">Partner With Us</a></li>
+
+          </ul>
+        </li>
+        <!-- How to help menu -->
+  <!-- Healtcare Workkers menu -->
+  <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown3" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Healthcare Workers
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="#">Frontline Worker Profiles</a></li>
+            <li><a class="dropdown-item" href="#">Testemonials</a></li>
+          <!--  <li><hr class="dropdown-divider"></li> -->
+            <li><a class="dropdown-item" href="#">Stories From The Frontline</a></li>
+
+          </ul>
+        </li>
+  <!-- Healtcare Workkers menu -->
+          </ul>
+
+          <form class="d-flex">
+            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success" type="submit">Search</button>
+          </form>
+        </div>
       </div>
     </nav>
     <section class="about">

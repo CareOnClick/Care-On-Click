@@ -45,3 +45,7 @@ h1 {
 .about img{
   border:grey 5px solid;
 }
+
+#brand-image {
+height:50px;
+}
