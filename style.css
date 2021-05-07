@@ -87,3 +87,20 @@ h1 {
 #brand-image {
 height:50px;
 }
+
+.blog {
+  background-color: white;
+  margin-right:5%;
+  margin-bottom:5%;
+  text-align:center;
+  padding-top:2%;
+  padding-bottom:2%;
+}
+
+button {
+  background-color:white;
+  border:none;
+  color:black;
+  font-size:150%;
+  padding:1%;
+}
