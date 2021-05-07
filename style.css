@@ -4,7 +4,7 @@ body {
   font-family: helvetica, arial, sans-serif;
   background-color:#DAEBEF;
 }
-
+/* This needs to be overridden in the scss file */
 .nav-link {
   color: red;
 }
@@ -30,39 +30,43 @@ h1 {
   list-style-type: none;
   padding: 0;
   margin: 0 auto;
-  width: 27.5em;
+  width: 45em;
 }
 #ourvalues ul li{
   font-weight: normal;
   font-size: 1em;
   float: left;
   display: block;
-  padding: .5em;
-  border: 1px solid #4d4dff;
-  border-radius: .5em;
+  padding: 2em;
+  border: 1px solid #A4C4E0;
+  border-top-left-radius: .5em;
   margin: .25em;
   background-color:#A4C4E0;
-  color:white;
+  color:black;
 }
 
-.col-sm-8{
+.col-sm-9{
   background-color:white;
   padding-top:2%;
   padding-bottom:2%;
 }
 
-.col-sm-8 h4{
+.col-sm-9 h4{
   background-color:#A4C4E0;
-  color:white;
+  color:black;
   margin-left: 5px;
   padding-left: 5px;
+  margin-right: 20px;
+  padding-right: 10px;
 }
-.col-sm-8 p{
+.col-sm-9 p{
   margin-left: 5px;
   padding-left: 5px;
+  margin-right: 20px;
+  padding-right: 10px;
   /*text-indent: 1.5em;*/
 }
-.col-sm-4 {
+.col-sm-3 {
   align-items: center;
   padding-left: 20px;
 }
