@@ -31,4 +31,13 @@ puts "Hello World!"
 ```
 
 ### Embedding images
+Notes: 
+- Files should either exist in the current GH source directory or you can use a full url to point to an image on a server. 
+- Use %20 for any spaces in the file name.
+
 ![Care On Click Logo](Big%20Logo.png)
+
+### Embed a video from Youtube
+Similar to images but with an extra set of brackets.
+
+[![Know Your Water Footprints](/media/KnowYourFootprints.png)](https://youtu.be/GhZnpCxtv5o)
