@@ -31,4 +31,4 @@ puts "Hello World!"
 ```
 
 ### Embedding images
-![Care On Click Logo](Big Logo.png)
+![Care On Click Logo](Big%20Logo.png)
