@@ -40,4 +40,4 @@ Notes:
 ### Embed a video from Youtube
 Similar to images but with an extra set of brackets.
 
-[![Know Your Water Footprints](/media/KnowYourFootprints.png)](https://youtu.be/GhZnpCxtv5o)
+[![Know Your Water Footprints](Empathy%20Map%20-%20Care%20on%20Click%20Team.png)](https://youtu.be/GhZnpCxtv5o)
