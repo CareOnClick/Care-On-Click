@@ -38,6 +38,6 @@ Notes:
 ![Care On Click Logo](Big%20Logo.png)
 
 ### Embed a video from Youtube
-Similar to images but with an extra set of brackets.
+Similar to images but with an extra set of brackets and parens while you specify a thumbnail image. Click on logo to launch video. P.S. You will want to add a screen shot of your video in the place of the logo.
 
-[![Know Your Water Footprints](Empathy%20Map%20-%20Care%20on%20Click%20Team.png)](https://youtu.be/GhZnpCxtv5o)
+[![Know Your Water Footprints](Big%20Logo.png)](https://youtu.be/GhZnpCxtv5o)
