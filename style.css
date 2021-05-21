@@ -88,6 +88,11 @@ h1 {
 height:50px;
 }
 
+#offer-container {
+  text-align: center;
+}
+
+
 .blog {
   background-color: white;
   margin-right:5%;
