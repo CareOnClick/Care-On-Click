@@ -30,3 +30,5 @@ Use _underline_ for italics
 puts "Hello World!"
 ```
 
+### Embedding images
+![Care On Click Logo](Big Logo.png)
