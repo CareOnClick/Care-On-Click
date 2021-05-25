@@ -1,7 +1,7 @@
 ---
 name: Feedback template
 about: We welcome your feedback to our Care On Click site
-title: 'Feedback form'
+title: 'Please enter a title for your feedback ...'
 labels: 'Feedback'
 assignees: 'turtlemoons'
 
