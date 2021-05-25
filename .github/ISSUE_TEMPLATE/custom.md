@@ -3,7 +3,7 @@ name: Feedback template
 about: We welcome your feedback to our Care On Click site
 title: 'Feedback form'
 labels: 'Feedback'
-assignees: ''
+assignees: 'turtlemoons'
 
 ---
 Thank you for visiting Care-On-Click. We welcome your feedback.
