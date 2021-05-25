@@ -19,7 +19,7 @@ Here is an ordered list:
 
 ### Links
 Text goes in brackets [] and the url goes into parens ( ). Note: Make sure the first paren is touching the last bracket.
-[[Care On Click Website](https://careonclick.github.io/Care-On-Click/Carousel.html)
+[Care On Click Website](https://careonclick.github.io/Care-On-Click/Carousel.html)
 
 ### Styling
 Use **asterisks** to bold text
