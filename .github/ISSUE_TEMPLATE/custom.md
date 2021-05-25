@@ -6,6 +6,8 @@ labels: 'Feedback'
 assignees: ''
 
 ---
+Thank you for visiting Care-On-Click. We welcome your feedback.
+
 ## Feedback summary
 <!-- Please provide a short summary of your feedback. -->
 
