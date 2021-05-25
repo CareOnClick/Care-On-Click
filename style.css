@@ -1,9 +1,17 @@
 /* CSS files add styling rules to your content */
 
+
+
 body {
   font-family: helvetica, arial, sans-serif;
   background-color:#DAEBEF;
+  color:black;
 }
+
+#brand-image {
+height:50px;
+}
+
 /* This needs to be overridden in the scss file */
 .nav-link {
   color: red;
@@ -15,6 +23,12 @@ h1 {
   color: #8A9B9F;
 }
 .about{
+}
+
+.quote{
+  color: #6c757d;
+  font-size: 1.5em;
+
 }
 
 #ourvalues {
@@ -83,9 +97,7 @@ h1 {
   border:grey 5px solid;
 }
 
-#brand-image {
-height:50px;
-}
+
 
 #offer-container {
   text-align: center;
@@ -96,7 +108,7 @@ height:50px;
   margin-top: 5%;
   margin-bottom:5%;
   padding:3%;
-  
+
 }
 
 .blog {
