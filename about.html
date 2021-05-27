@@ -82,25 +82,30 @@
 
         <div id="ourvalues">
             <ul>
-              <li><button type="button"  class="button-values" data-bs-container="body" data-bs-toggle="popover" data-bs-placement="bottom" data-bs-content="We believe in supporting our frontline workers." data-bs-trigger="focus">
+              <li>
+                <a tabindex="0" class="button-values" role="button" data-toggle="popover" data-bs-trigger="focus" title="Support" data-bs-content="We believe in supporting our frontline workers.">
                 Support
-              </button>
+              </a>
               </li>
-              <li><button type="button" class="button-values" data-bs-container="body" data-bs-toggle="popover" data-bs-placement="bottom" data-bs-content="We provide care to show our support." data-bs-trigger="focus">
+              <li>
+                <a tabindex="0" class="button-values" role="button" data-toggle="popover" data-bs-trigger="focus" title="Care" data-bs-content="We provide care to show our support.">
                 Care
-              </button>
+                </a>
               </li>
-              <li><button type="button" class="button-values" data-bs-container="body" data-bs-toggle="popover" data-bs-placement="bottom" data-bs-content="Safety will get us through this." data-bs-trigger="focus">
+              <li>
+                <a tabindex="0" class="button-values" role="button" data-toggle="popover" data-bs-trigger="focus" title="Safety" data-bs-content="Safety will get us through this.">
                 Safety
-              </button>
+              </a>
               </li>
-              <li><button type="button" class="button-values" data-bs-container="body" data-bs-toggle="popover" data-bs-placement="bottom" data-bs-content="Showing gratitude shows we care." data-bs-trigger="focus">
+              <li>
+                <a tabindex="0" class="button-values" role="button" data-toggle="popover" data-bs-trigger="focus" data-bs-placement="bottom" title="Gratitude" data-bs-content="Showing gratitude shows we care.">
                 Gratitude
-              </button>
+                </a>
               </li>
-              <li><button type="button" class="button-values" data-bs-container="body" data-bs-toggle="popover" data-bs-placement="bottom" data-bs-content="Integrity in all we do." data-bs-trigger="focus">
+              <li>
+                <a tabindex="0" class="button-values" role="button" data-toggle="popover" data-bs-trigger="focus" data-bs-placement="bottom" title="Integrity" data-bs-content="Integrity in all we do.">
                 Integrity
-              </button>
+              </a>
               </li>
             </ul>
 
@@ -118,7 +123,7 @@
       </div>
       <div class="row align-items-center our-purpose">
         <div class="col-sm-3">
-          <img
+          <img class="img-fluid" style="margin-left: 15px"
             src="https://cdn.glitch.com/0cd19739-31b1-476a-8f9a-f9fb13145783%2FScreen%20Shot%202021-02-26%20at%205.25.17%20PM.png?v=1614378353032"
           />
         </div>
@@ -139,29 +144,12 @@
              to show your support through donations or words of encouragement
              and take you inside the journey of fighting COVID-19.
 
-            <br /><br />
-            Check out the frontline worker profiles to learn more about what
-            it’s like to be on the frontlines.
-
-            Learn how you can help make a difference today!
+            <br /><br/>
 
           </p>
         </div>
       </div>
-      <div class="container click-here">
-        <div class="row">
-          <div class="col-sm">
-            <p>
-              Click here to learn more about the resources we offer!
-            </p>
-          </div>
-          <div class="col-sm">
-            <p>
-              Click here if you are interested in helping this iniative!
-            </p>
-          </div>
-        </div>
-      </div>
+      
     </section>
     <script
       src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
@@ -186,6 +174,12 @@
     var popoverList = popoverTriggerList.map(function (popoverTriggerEl) {
       return new bootstrap.Popover(popoverTriggerEl)
     });
+    $(function () {
+  $('[data-toggle="popover"]').popover({
+    container: 'body'
+    })
+  })
+
     </script>
 
   </body>
