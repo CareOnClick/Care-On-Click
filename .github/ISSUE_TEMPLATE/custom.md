@@ -1,20 +1,20 @@
 ---
-name: Feedback template
-about: We welcome your feedback to our Care On Click site
-title: 'Please enter a title for your feedback ...'
-labels: 'Feedback'
+name: Inquiry template
+about: We welcome any inquiries on our Care On Click site
+title: 'Please enter a title for your inquiry ...'
+labels: 'Inquiries'
 assignees: 'turtlemoons'
 
 ---
-Thank you for visiting Care-On-Click. We welcome your feedback.
+Thank you for visiting Care-On-Click. We welcome all inquiries.
 
-## Feedback summary
-<!-- Please provide a short summary of your feedback. -->
+## Summary
+<!-- Please provide a short summary of your inquiry. -->
 
 
 
-## Feedback details
-<!-- Please provide details of your feedback. -->
+## Inquiry details
+<!-- Please provide details on your inquiry. -->
 
 
 
