@@ -58,13 +58,13 @@ h1 {
   color:black;
 }
 
-.col-sm-9{
+.col-sm-9, let{
   background-color:white;
   padding-top:2%;
   padding-bottom:2%;
 }
 
-.col-sm-9 h4{
+.col-sm-9 h4, let{
   background-color:#A4C4E0;
   color:black;
   margin-left: 5px;
@@ -72,7 +72,7 @@ h1 {
  /* margin-right: 20px;*/
   padding-right: 10px;
 }
-.col-sm-9 p{
+.col-sm-9 p, let{
   margin-left: 5px;
   padding-left: 5px;
  /* margin-right: 20px;*/
