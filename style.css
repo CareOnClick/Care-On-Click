@@ -72,6 +72,16 @@ h1 {
  /* margin-right: 20px;*/
   padding-right: 10px;
 }
+.col-sm-9 h1{
+  background-color:#A4C4E0;
+  color:black;
+  margin-left: 5px;
+  padding-left: 5px;
+ /* margin-right: 20px;*/
+  padding-right: 10px;
+  text-align:left;
+}
+
 .col-sm-9 p{
   margin-left: 5px;
   padding-left: 5px;
@@ -143,6 +153,7 @@ button {
   font-size:150%;
   padding:1%;
 }
+
 
 .letters {
   background-color: white;
