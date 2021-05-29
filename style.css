@@ -103,8 +103,8 @@ h1 {
   padding-top:2%;
   padding-bottom:2%;
 }
-.let h4{
-    background-color:#A4C4E0;
+.let h1{
+  background-color:#A4C4E0;
   color:black;
   margin-left: 5px;
   padding-left: 5px;
@@ -125,10 +125,6 @@ h1 {
 
 .click-here{
   text-align:center;
-}
-
-.about img{
-  border:grey 5px solid;
 }
 
 #offer-container {
