@@ -19,7 +19,7 @@ height:50px;
 
 h1 {
   text-align: center;
-  margin: 4%;
+  margin: 2%;
   color: #31506b;
 }
 
@@ -79,6 +79,8 @@ h1 {
  /* margin-right: 20px;*/
   padding-right: 10px;
   text-align:left;
+  font-weight: 300;
+  font-size:0.75rem;
 }
 
 .col-sm-9 p{
