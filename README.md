@@ -1,8 +1,8 @@
 # Care-On-Click
 MVP1 prototype website for CareOnCLick hosted via github pages
 
-Here is a link to CareOnClick's website:
-[Care On Click Website](https://careonclick.github.io/Care-On-Click/Carousel.html) 
+Here is a link to [CareOnClick's website](https://careonclick.github.io/Care-On-Click/Carousel.html) 
+
 
 
 ## Table Of Contents
@@ -25,6 +25,8 @@ Here is an ordered list:
 - [how-to-help.html](https://github.com/CareOnClick/Care-On-Click/blob/main/how-to-help.html) contains code for the How to Help page
 
 - [letters.html](https://github.com/CareOnClick/Care-On-Click/blob/main/letters.html) contains code for the Write a letter of support [page](https://careonclick.glitch.me/submit-letter.html)
+
+
 
 
 2. HTML Files ( Not Used) 
