@@ -13,8 +13,8 @@ Here is an underordered list:
 ### README File Summary
 Here is an ordered list:
 1. HTML Files(Used):
-- [Carousel.html](https://careonclick.github.io/Care-On-Click/Carousel.html) contains code for the homepage of website
-- [about.html](https://careonclick.github.io/Care-On-Click/about.html) contains code for the About Us page
+- [Carousel.html](https://github.com/CareOnClick/Care-On-Click/blob/main/Carousel.html) contains code for the homepage of website
+- [about.html](https://github.com/CareOnClick/Care-On-Click/blob/main/about.html) contains code for the About Us page
 -
 -
 2. b
