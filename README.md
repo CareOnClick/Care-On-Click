@@ -5,13 +5,19 @@ Here is a link to [CareOnClick's website](https://careonclick.github.io/Care-On-
 
 
 
-## Table Of Contents
-Here is an underordered list:
-- first item in unordered list
-- second item in unordered list
-- three item in unordered list
+## _Table Of Contents_
 
-### This is a heading level 3
+<br />
+1. HTML files ( Used )
+<br />
+2. HTML files ( Not Used )
+<br />
+3. Pictures
+<br />
+4. Other Files
+
+<br />
+<br />
 
 ### README File Summary
 Here is an ordered list:
@@ -25,9 +31,9 @@ Here is an ordered list:
 - [how-to-help.html](https://github.com/CareOnClick/Care-On-Click/blob/main/how-to-help.html) contains code for the How to Help page
 
 - [letters.html](https://github.com/CareOnClick/Care-On-Click/blob/main/letters.html) contains code for the Write a letter of support [page](https://careonclick.glitch.me/submit-letter.html) 
-/
 
 
+<br />
 
 2. HTML Files ( Not Used):  
 
@@ -63,10 +69,20 @@ Here is an ordered list:
 - [surgeon.png](https://github.com/CareOnClick/Care-On-Click/blob/main/surgeon.png)  is used on the homepage blog snippet section
 
 
-
+<br />
 
 
 4. Other Files
+
+- [.github/ISSUE_TEMPLATE](https://github.com/CareOnClick/Care-On-Click/tree/main/.github/ISSUE_TEMPLATE) contains the Inquiry form the Contact Us link leads to
+
+- .DS_Store is not used
+
+- [.gitignore](https://github.com/CareOnClick/Care-On-Click/blob/main/.gitignore) was used to ignore some github files. Is currently not being used
+
+-
+
+- [carousel.css](https://github.com/CareOnClick/Care-On-Click/blob/main/carousel.css) is the css file for Carousel.html.
 
 <!-- This is a comment  --> 
 
