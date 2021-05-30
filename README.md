@@ -29,11 +29,16 @@ Here is an ordered list:
 
 
 
-2. HTML Files ( Not Used) 
+2. HTML Files ( Not Used):
+
+- [style-list-example.html](https://github.com/CareOnClick/Care-On-Click/blob/main/style-list-example.html) is an styling example we looked at before the about us page was styled
 
 - [HomePage.html](https://github.com/CareOnClick/Care-On-Click/blob/main/HomePage.html) is a homepage test file we uploaded before we started building our prototype
 
 - [contact-us.html](https://github.com/CareOnClick/Care-On-Click/blob/main/contact-us.html) is a contact-us test file we uploaded before we started building our prototype
+
+- [our-mission.html](https://github.com/CareOnClick/Care-On-Click/blob/main/our-mission.html) is a test file for the Our Missions page we uploaded before we started building our prototype
+
 
 - eeeee
 
