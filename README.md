@@ -40,10 +40,33 @@ Here is an ordered list:
 - [our-mission.html](https://github.com/CareOnClick/Care-On-Click/blob/main/our-mission.html) is a test file for the Our Missions page we uploaded before we started building our prototype
 
 
-- eeeee
 
-3. c
-4. d
+
+3. Pictures:
+
+- [Big Logo.png](https://github.com/CareOnClick/Care-On-Click/blob/main/Big%20Logo.png) was as a logo image on the navbar throughout our website
+
+- [Empathy Map - Care on Click Team.png](https://github.com/CareOnClick/Care-On-Click/blob/main/Empathy%20Map%20-%20Care%20on%20Click%20Team.png) is one of the activities we did on the Mural Platform. This was the end result
+
+- [Homepage_banner.png](https://github.com/CareOnClick/Care-On-Click/blob/main/Homepage_banner.png) is used on the carousel for the homepage 
+
+- [Long Logo.png](https://github.com/CareOnClick/Care-On-Click/blob/main/Long%20Logo.png) was not used on the website. It is another version of our logo.
+
+- [QA.png](https://github.com/CareOnClick/Care-On-Click/blob/main/QA.png) is used on the homepage blog snippet section
+
+- [carepackage_banner.png](https://github.com/CareOnClick/Care-On-Click/blob/main/carepackage_banner.png) is used on the carousel for the homepage
+
+- [spinning globe.gif](https://github.com/CareOnClick/Care-On-Click/blob/main/spinning%20globe.gif) is used on the homepage blog snippet section
+
+- [support.png](https://github.com/CareOnClick/Care-On-Click/blob/main/support.png) is used on the carousel for the homepage 
+
+- [surgeon.png](https://github.com/CareOnClick/Care-On-Click/blob/main/surgeon.png)  is used on the homepage blog snippet section
+
+
+
+
+
+4. Other Files
 
 <!-- This is a comment  --> 
 
