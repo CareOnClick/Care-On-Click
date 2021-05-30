@@ -1,8 +1,11 @@
 # Care-On-Click
+MVP1 prototype website for CareOnCLick hosted via github pages
+
 Here is a link to CareOnClick's website:
 [Care On Click Website](https://careonclick.github.io/Care-On-Click/Carousel.html) 
 
-## This is a heading level 2
+
+## Table Of Contents
 Here is an underordered list:
 - first item in unordered list
 - second item in unordered list
@@ -28,7 +31,10 @@ Here is an ordered list:
 
 - [HomePage.html](https://github.com/CareOnClick/Care-On-Click/blob/main/HomePage.html) is a homepage test file we uploaded before we started building our prototype
 
-- 
+- [contact-us.html](https://github.com/CareOnClick/Care-On-Click/blob/main/contact-us.html) is a contact-us test file we uploaded before we started building our prototype
+
+- eeeee
+
 3. c
 4. d
 
