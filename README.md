@@ -39,7 +39,7 @@ Here is an ordered list:
 
 - [our-mission.html](https://github.com/CareOnClick/Care-On-Click/blob/main/our-mission.html) is a test file for the Our Missions page we uploaded before we started building our prototype
 
-
+<br />
 
 
 3. Pictures:
