@@ -19,9 +19,9 @@ Here is an ordered list:
 
 - [what-we-offer.html](https://github.com/CareOnClick/Care-On-Click/blob/main/what-we-offer.html) contains the code for the What We Offer page
 
--[how-to-help.html](https://github.com/CareOnClick/Care-On-Click/blob/main/how-to-help.html) contains code for the How to Help page
+- [how-to-help.html](https://github.com/CareOnClick/Care-On-Click/blob/main/how-to-help.html) contains code for the How to Help page
 
--[letters.html](https://github.com/CareOnClick/Care-On-Click/blob/main/letters.html) contains code for the Write a letter of support [page](https://careonclick.glitch.me/submit-letter.html)
+- [letters.html](https://github.com/CareOnClick/Care-On-Click/blob/main/letters.html) contains code for the Write a letter of support [page](https://careonclick.glitch.me/submit-letter.html)
 -
 2. b
 3. c
