@@ -22,8 +22,13 @@ Here is an ordered list:
 - [how-to-help.html](https://github.com/CareOnClick/Care-On-Click/blob/main/how-to-help.html) contains code for the How to Help page
 
 - [letters.html](https://github.com/CareOnClick/Care-On-Click/blob/main/letters.html) contains code for the Write a letter of support [page](https://careonclick.glitch.me/submit-letter.html)
--
-2. b
+
+
+2. HTML Files ( Not Used) 
+
+- [HomePage.html](https://github.com/CareOnClick/Care-On-Click/blob/main/HomePage.html) is a homepage test file we uploaded before we started building our prototype
+
+- 
 3. c
 4. d
 
