@@ -1,4 +1,5 @@
 # Care-On-Click
+Here is a link to CareOnClick's website:
 [Care On Click Website](https://careonclick.github.io/Care-On-Click/Carousel.html) 
 
 ## This is a heading level 2
@@ -7,10 +8,15 @@ Here is an underordered list:
 - second item in unordered list
 - three item in unordered list
 
-### This is a heading 3
-Here is an ordered list:
+### This is a heading level 3
 
-1. a
+### README File Summary
+Here is an ordered list:
+1. HTML Files(Used):
+- [Carousel.html](https://careonclick.github.io/Care-On-Click/Carousel.html) contains code for the homepage of website
+- [about.html](https://careonclick.github.io/Care-On-Click/about.html) contains code for the About Us page
+-
+-
 2. b
 3. c
 4. d
