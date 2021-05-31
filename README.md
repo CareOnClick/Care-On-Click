@@ -34,7 +34,7 @@ Here is a [link](https://www.youtube.com/watch?v=c950WlHejSU&feature=youtu.be) t
 
 - [how-to-help.html](https://github.com/CareOnClick/Care-On-Click/blob/main/how-to-help.html) contains code for the How to Help page
 
-- [letters.html](https://github.com/CareOnClick/Care-On-Click/blob/main/letters.html) contains code for the Write a letter of support [page](https://careonclick.glitch.me/submit-letter.html) 
+- [letters.html](https://github.com/CareOnClick/Care-On-Click/blob/main/letters.html) contains code for the Letters of Support [page](https://careonclick.glitch.me/submit-letter.html) 
 
 
 <br />
