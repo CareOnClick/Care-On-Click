@@ -1,5 +1,5 @@
 # Care-On-Click
-MVP1 prototype website for CareOnCLick hosted via github pages
+MVP1 prototype website for CareOnClick hosted via github pages
 
 Here is a link to [CareOnClick's website](https://careonclick.github.io/Care-On-Click/Carousel.html) 
 
