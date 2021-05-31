@@ -81,7 +81,6 @@ Here is an ordered list:
 
 - [.gitignore](https://github.com/CareOnClick/Care-On-Click/blob/main/.gitignore) was used to ignore some github files. Is currently not being used
 
--
 
 - [carousel.css](https://github.com/CareOnClick/Care-On-Click/blob/main/carousel.css) is the css file for Carousel.html.
 
