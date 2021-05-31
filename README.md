@@ -5,7 +5,7 @@ Here is a link to [CareOnClick's website](https://careonclick.github.io/Care-On-
 
 
 
-## _Table Of Contents_
+## Table Of Contents
 
 <br />
 1. HTML files ( Used )
