@@ -1,7 +1,10 @@
 # Care-On-Click
-MVP1 prototype website for CareOnCLick hosted via github pages
+MVP1 prototype website for CareOnClick hosted via github pages
 
 Here is a link to [CareOnClick's website](https://careonclick.github.io/Care-On-Click/Carousel.html) 
+
+Here is a [link](https://www.youtube.com/watch?v=c950WlHejSU&feature=youtu.be) to our 5 minute video summary of the CareOnClick Project:
+
 
 
 
@@ -21,8 +24,9 @@ Here is a link to [CareOnClick's website](https://careonclick.github.io/Care-On-
 <br />
 
 ### README File Summary
-Here is an ordered list:
+<br />
 1. HTML Files(Used):
+
 - [Carousel.html](https://github.com/CareOnClick/Care-On-Click/blob/main/Carousel.html) contains code for the homepage of website
 
 - [about.html](https://github.com/CareOnClick/Care-On-Click/blob/main/about.html) contains code for the About Us page
@@ -31,7 +35,7 @@ Here is an ordered list:
 
 - [how-to-help.html](https://github.com/CareOnClick/Care-On-Click/blob/main/how-to-help.html) contains code for the How to Help page
 
-- [letters.html](https://github.com/CareOnClick/Care-On-Click/blob/main/letters.html) contains code for the Write a letter of support [page](https://careonclick.glitch.me/submit-letter.html) 
+- [letters.html](https://github.com/CareOnClick/Care-On-Click/blob/main/letters.html) contains code for the Letters of Support [page](https://careonclick.glitch.me/submit-letter.html) 
 
 
 <br />
@@ -88,9 +92,3 @@ Here is an ordered list:
 
 
 
-![Care On Click Logo](Big%20Logo.png)
-
-### Embed a video from Youtube
-Similar to images but with an extra set of brackets and parens while you specify a thumbnail image. Click on logo to launch video. P.S. You will want to add a screen shot of your video in the place of the logo.
-
-[![Know Your Water Footprints](Big%20Logo.png)](https://youtu.be/GhZnpCxtv5o)
