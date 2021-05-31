@@ -7,6 +7,7 @@ assignees: 'turtlemoons'
 
 ---
 Thank you for visiting Care-On-Click. We welcome all inquiries.
+Click [here](https://careonclick.github.io/Care-On-Click/Carousel.html) to go back to the homepage
 
 ## Summary
 <!-- Please provide a short summary of your inquiry. -->
