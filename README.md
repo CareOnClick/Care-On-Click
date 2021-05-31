@@ -35,7 +35,7 @@ Here is an ordered list:
 
 <br />
 
-2. HTML Files ( Not Used):  
+2. HTML Files ( Not Used ):  
 
 - [style-list-example.html](https://github.com/CareOnClick/Care-On-Click/blob/main/style-list-example.html) is an styling example we looked at before the about us page was styled
 
@@ -50,7 +50,7 @@ Here is an ordered list:
 
 3. Pictures:
 
-- [Big Logo.png](https://github.com/CareOnClick/Care-On-Click/blob/main/Big%20Logo.png) was as a logo image on the navbar throughout our website
+- [Big Logo.png](https://github.com/CareOnClick/Care-On-Click/blob/main/Big%20Logo.png) is as a logo image on the navbar throughout our website
 
 - [Empathy Map - Care on Click Team.png](https://github.com/CareOnClick/Care-On-Click/blob/main/Empathy%20Map%20-%20Care%20on%20Click%20Team.png) is one of the activities we did on the Mural Platform. This was the end result
 
