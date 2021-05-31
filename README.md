@@ -3,6 +3,9 @@ MVP1 prototype website for CareOnCLick hosted via github pages
 
 Here is a link to [CareOnClick's website](https://careonclick.github.io/Care-On-Click/Carousel.html) 
 
+Here is a [link](https://www.youtube.com/watch?v=c950WlHejSU&feature=youtu.be) to our 5 minute video summary of the CareOnClick Project:
+
+
 
 
 
