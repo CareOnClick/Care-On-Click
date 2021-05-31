@@ -24,7 +24,7 @@ Here is a [link](https://www.youtube.com/watch?v=c950WlHejSU&feature=youtu.be) t
 <br />
 
 ### README File Summary
-Here is an ordered list:
+<br />
 1. HTML Files(Used):
 - [Carousel.html](https://github.com/CareOnClick/Care-On-Click/blob/main/Carousel.html) contains code for the homepage of website
 
